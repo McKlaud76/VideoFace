@@ -1,7 +1,7 @@
 DATA-SKIP Videoface Utility
 1987 by P.M.S. / Romantic Robot 
 
-Loader and user interface BASIC programme:
+Loader and user interface BASIC program:
 ------------------------------------------
 Program: t:videof
 
