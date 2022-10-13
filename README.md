@@ -2,7 +2,9 @@
 ### Video digitiser for ZX Spectrum based on Romatic Robot works 
 © 2022 KWF
 
-Date: 25/08/2022
+Date: 12/10/2022
+
+### Description
 
 ### Photos
 
