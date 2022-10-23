@@ -1,5 +1,5 @@
 # VideoFace
-### Video digitiser for ZX Spectrum based on Romatic Robot works 
+### Video digitiser for ZX Spectrum based on DATA-SKIP/Romatic Robot works 
 © 2022 KWF
 
 Date: 23/10/2022
