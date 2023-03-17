@@ -1,4 +1,4 @@
-License type: CC BY-NC-SA
+### License: CC BY-NC-SA
 
 This hardware design is licensed under Creative Common (Attribution + Noncommercial + ShareAlike) type license. 
 
