@@ -7,10 +7,10 @@ Date: 23/10/2022
 ![VideFace](/Docs/VideoFace_02.png)
 
 ### Description
+<a href="https://www.pcbway.com/project/shareproject/VideoFace_Digitiser_b6307fba.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
-[![name](link to image on GH)](link to your URL)
 
-![PCB from PCBWay](https://www.pcbway.com/project/shareproject/VideoFace_Digitiser_b6307fba.html)
+![PCB from PCBWay (https://www.pcbway.com/project/img/images/frompcbway-1220.png)](https://www.pcbway.com/project/shareproject/VideoFace_Digitiser_b6307fba.html)
 
 ### Photos
 
