@@ -1,5 +1,5 @@
 # VideoFace
-### Video digitiser for ZX Spectrum based on DATA-SKIP/Romatic Robot works 
+### Video digitizer for ZX Spectrum based on DATA-SKIP/Romatic Robot works 
 © 2022 KWF
 
 Date: 23/10/2022
@@ -7,9 +7,12 @@ Date: 23/10/2022
 ![VideFace](/Docs/VideoFace_02.png)
 
 ### Description
-<a href="https://www.pcbway.com/project/shareproject/VideoFace_Digitiser_b6307fba.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+Recreated video digitizer for ZX Spectrum. The interface works with 48K/128K models and it is able to capture up to 4 frames per second.
 
 ### Photos
+
+### Ordering PCB
+[![PCBway](https://www.pcbway.com/project/img/images/frompcbway-1220.png)]((https://www.pcbway.com/project/shareproject/VideoFace_Digitiser_b6307fba.html))
 
 ### Warranty
 
